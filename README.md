@@ -1,4 +1,8 @@
 The-web-dev-cassette
 ====================
 
-A collection of links to web-dev tools and documentation
+Libraries
+---------
+
+1) Modernizr: http://modernizr.com/
+JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
